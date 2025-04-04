@@ -258,6 +258,7 @@ const colorColorStateFillSubtleDefault = '#1f7ef614';
 const colorColorStateFillSubtleHover = '#1f7ef63d';
 const colorColorStateFillSubtleDisabled = '#1f7ef61f';
 const colorColorStateThinDisabledBlue = '#1f7ef647';
+const colorTest_copy_1 = '#ffffff';
 const colorColorEmphasisThinHigh = colorColorsBlack950;
 const colorColorTextEmphasisHigh = colorColorEmphasisThinHigh;
 const colorColorStateThinDisabled = colorColorsBlack300;
@@ -1094,6 +1095,7 @@ export const ColorTokens = {
   colorColorStateFillSubtleHover,
   colorColorStateFillSubtleDisabled,
   colorColorStateThinDisabledBlue,
+  colorTest_copy_1,
   colorColorEmphasisThinHigh,
   colorColorTextEmphasisHigh,
   colorColorStateThinDisabled,
